@@ -1,1 +1,1 @@
-It's a code for scraping a website (particular) to fetch data.
+It's a code for scraping website to fetch data.
